@@ -2,8 +2,8 @@
     "group":
     [
         {
-            "name": "hotkey",
-            "desc": "For easy define hotkey.",
+            "name": "Hikit Source",
+            "desc": "A public source and a sample.",
             "apps": [
                 "hotkey"
             ]
