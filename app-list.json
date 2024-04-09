@@ -1,0 +1,12 @@
+{
+    "group":
+    [
+        {
+            "name": "hotkey",
+            "desc": "For easy define hotkey.",
+            "apps": [
+                "hotkey"
+            ]
+        }
+    ]
+}
