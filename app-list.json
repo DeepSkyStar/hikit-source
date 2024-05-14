@@ -1,11 +1,11 @@
 {
-    "group":
-    [
+    "group": [
         {
             "name": "Hikit Source",
             "desc": "A public source and a sample.",
             "apps": [
-                "hotkey"
+                "hotkey",
+                "hi_basic_ext"
             ]
         }
     ]
