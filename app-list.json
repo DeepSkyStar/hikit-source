@@ -6,7 +6,8 @@
             "apps": [
                 "hotkey",
                 "hi_basic_ext",
-                "hidev"
+                "hidev",
+                "himake"
             ]
         }
     ]
