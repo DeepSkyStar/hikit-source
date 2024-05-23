@@ -4,13 +4,12 @@
     "desc": "For easy define hotkey.",
     "version": "1.0.0",
     "type": "app",
-    "remote": "git@github.com:DeepSkyStar/hotkey.git",
-    "is_default" : false,
-    "commands":[
+    "remote": "https://github.com/DeepSkyStar/hotkey.git",
+    "is_default": false,
+    "commands": [
         "hotkey"
     ],
-    "resources":[
-    ],
-    "dependencies":[
-    ]
+    "resources": [],
+    "dependencies": [],
+    "contact": "deepskystar@outlook.com"
 }
