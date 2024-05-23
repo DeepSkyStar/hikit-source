@@ -1,7 +1,7 @@
 {
     "group": [
         {
-            "name": "Hikit Source",
+            "name": "hikit",
             "desc": "A public source and a sample.",
             "apps": [
                 "hotkey",
