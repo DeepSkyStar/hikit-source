@@ -5,7 +5,8 @@
             "desc": "A public source and a sample.",
             "apps": [
                 "hotkey",
-                "hi_basic_ext"
+                "hi_basic_ext",
+                "hidev"
             ]
         }
     ]
