@@ -2,7 +2,7 @@
     "name": "himake",
     "owner": "Cosmade",
     "desc": "For cross-platform c language build.",
-    "version": "0.1.0",
+    "version": "0.2.0",
     "type": "app",
     "remote": "https://github.com/DeepSkyStar/himake.git",
     "is_default": false,
